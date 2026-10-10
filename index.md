@@ -52,7 +52,7 @@ The robots perform apparently unrelated activities. Some cross land. Others reac
 
 Over time, a pattern emerges. Robots converge on particular ports. Their latitude generally increases. Different actions begin to make sense as different responses to the same underlying task. An observer could recognize a shared purpose before discovering the exact destination or the call to the mothership.
 
-This is how I approach the universe. We need not know the ultimate destination to recognize a direction in the processes that produced us. I interpret the recurring emergence of greater capacities for persistence as evidence of purpose.
+This is how I approach the universe. We need not know the ultimate destination to recognize a direction in the processes that produced us. Purpose is the simplest way to understand the recurring emergence of greater capacities for persistence. Selection can explain why what persists persists. A purpose served by greater persistence also explains why those capacities keep growing, and predicts that they will continue to. Recognizing that purpose requires no designer, and, as with the robots, no knowledge of where it leads.
 
 The analogy illustrates the inference; it does not prove it. My claim is that the recurring direction across those processes reveals something about what the universe is moving toward. Conscious intention need not have existed at the beginning for purpose to become recognizable in what unfolds.
 
@@ -110,11 +110,9 @@ We do not know how far we can go. We can choose to give the future the greatest 
 
 John Stewart's [The Evolutionary Manifesto](https://www.evolutionarymanifesto.com/man.html) presents a closely related view: evolution has a direction, conscious beings can recognize and intentionally advance it, and participating in that process can give their lives meaning. The similarity is substantial.
 
-Stewart identifies increasing cooperation and evolvability as central directions. His [social proposal](https://www.evolutionarymanifesto.com/man2.html) emphasizes progressively larger cooperative organizations, including a unified global society. He retains a role for markets and competition. My starting point is persistence itself: cooperation and competition are means whose value depends on how they improve the chance of continuation. I do not prescribe one organizational form as the necessary next step.
+Stewart's manifesto also includes a [social proposal](https://www.evolutionarymanifesto.com/man2.html) for how society should be organized and governed, leading to a unified global society. I do not offer a prescription for governance. The Current concerns the direction itself; how best to organize ourselves to follow it is a separate question.
 
-The distinction is not biological life versus machines. Stewart explicitly includes technology and artificial intelligence. My broader definition of life begins with the persistence of patterns, including physical systems before biological life appears. I also explicitly interpret the Current as evidence of cosmic purpose, while leaving its ultimate destination unknown.
-
-These accounts share a central intuition while differing in their foundations and prescriptions. Stewart's manifesto is a useful companion for readers who want to explore a more developed program of intentional evolution.
+Stewart's manifesto is a useful companion for readers who want to explore a more developed program of intentional evolution.
 
 ### Asha
 
