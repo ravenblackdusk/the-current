@@ -19,7 +19,7 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--fg);
-  font: 1.125rem/1.7 Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+  font: 1.125rem/1.7 "Source Serif 4", Georgia, serif;
 }
 main, footer { max-width: 40rem; margin: 0 auto; padding: 0 1rem; }
 main { padding-top: 2rem; }
