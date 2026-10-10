@@ -1,0 +1,6 @@
+title: The Current
+subtitle: Persistence and the Purpose of Life
+author: Alireza Ghassemi
+markdown: kramdown
+exclude:
+  - LICENSE

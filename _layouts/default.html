@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.main %}{{ site.title }}: {{ site.subtitle }}{% else %}{{ page.title }} · {{ site.title }}{% endif %}</title>
+<meta name="author" content="{{ site.author }}">
+<link rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+<link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+</head>
+<body>
+<main>
+{% if page.main %}
+<header class="masthead">
+<img class="hero" src="{{ '/the-current.webp' | relative_url }}" width="1254" height="1254" alt="Glowing blue branches rise from a single point at the base of a dark planet, splitting and reaching upward, with the light of a star at the horizon.">
+<h1>{{ site.title }}</h1>
+<p class="subtitle">{{ site.subtitle }}</p>
+<p class="byline">{{ site.author }}</p>
+</header>
+{% else %}
+<nav class="back"><a href="{{ '/' | relative_url }}">← {{ site.title }}</a></nav>
+<p class="byline">{{ site.author }}</p>
+{% endif %}
+<article>
+{{ content }}
+</article>
+</main>
+<footer>
+<p>© {{ 'now' | date: '%Y' }} {{ site.author }}. Licensed under <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
+</footer>
+</body>
+</html>
