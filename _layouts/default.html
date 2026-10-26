@@ -30,6 +30,12 @@
 <article>
 {{ content }}
 </article>
+<section class="contact" id="contact" aria-labelledby="contact-heading">
+<h2 id="contact-heading">Contact</h2>
+<p><a href="mailto:ravenblackdusk@gmail.com">ravenblackdusk@gmail.com</a></p>
+<p>For encrypted email, <a href="{{ '/public-key.asc' | relative_url }}" download>download my OpenPGP public key</a>.</p>
+<p class="fingerprint">Fingerprint: <code>CEDD DBAA EAB1 9493 4807 2A46 0EB4 68A3 E369 5048</code></p>
+</section>
 </main>
 <footer>
 <p>© {{ 'now' | date: '%Y' }} {{ site.author }}. Licensed under <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
